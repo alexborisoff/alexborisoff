@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sneakershop<br>👯 I’m looking to collaborate on React.js and Next.js<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact  I can easily fit into a new team. <br>
+🔭 I’m currently working on sneakershop site<br>👯 I’m looking to collaborate with web-developers (React JS)<br>👨‍💻 I’m currently learning Next.js<br>⚡ Fun fact:  I can easily fit into a new team <br>
 
 
 ## 🌐 Socials:
