@@ -1,6 +1,8 @@
 # 💫 About Me:
-👨🏻‍💻 I’m currently working on sneakershop site<br>🔎 I’m looking to collaborate with web-developers (React JS)<br>👨🏼‍🏫 I’m currently learning React Native<br>📌 Fun fact: I can easily fit into a new team
-
+👨🏻‍💻 I’m currently working on sneakershop site
+🔎 I’m looking to collaborate with web-developers (React JS)
+👨🏼‍🏫 I’m currently learning React Native
+📌 Fun fact: I can easily fit into a new team
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/borisov11vosirob)
