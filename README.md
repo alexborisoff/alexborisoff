@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I’m currently working on sneakershop site <br>
+👨🏻‍💻 I’m currently working on sneakershop site and admin dashboard <br>
 🔎 I’m looking to collaborate with web-developers (React JS) <br>
 👨🏼‍🏫 I’m currently learning React Native <br>
 📌 Fun fact: I can easily fit into a new team <br>
